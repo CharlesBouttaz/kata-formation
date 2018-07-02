@@ -25,7 +25,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>RELEASE</version>
+                <version>3.7.0</version>
                 <configuration>
                     <!-- or whatever version you use -->
                     <source>1.8</source>
